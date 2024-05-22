@@ -2,9 +2,9 @@
 
 Using git's tools to keep the projects updated and sync. <br>
 
-Git classes done during Rocketseat's Full Stack Course, ending stage and practing.
+Git classes done during Rocketseat's Full Stack Course, ending stage and practing. <br>
 
-Git
+Git Bash
 
 - Git init
 - Git add .
